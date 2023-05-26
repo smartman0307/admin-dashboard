@@ -2,13 +2,13 @@
 
 ![A React JS Admin Dashboard](https://user-images.githubusercontent.com/71302066/176727220-9b5f7361-65df-480b-8f85-758954bddfd5.png "A React JS Admin Dashboard")
 
-[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Technical-Shubham-tech "Ask Me Anything!")
-[![GitHub license](https://img.shields.io/github/license/Technical-Shubham-tech/admin-dashboard)](https://github.com/Technical-Shubham-tech/admin-dashboard/blob/main/LICENSE.md "GitHub license")
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Technical-Shubham-tech/admin-dashboard/commits/main "Maintenance")
-[![GitHub branches](https://badgen.net/github/branches/Technical-Shubham-tech/admin-dashboard/)](https://github.com/Technical-Shubham-tech/admin-dashboard/branches "GitHub branches")
-[![Github commits](https://badgen.net/github/commits/Technical-Shubham-tech/admin-dashboard/main)](https://github.com/Technical-Shubham-tech/admin-dashboard/commits "Github commits")
+[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/smartman0307 "Ask Me Anything!")
+[![GitHub license](https://img.shields.io/github/license/smartman0307/admin-dashboard)](https://github.com/smartman0307/admin-dashboard/blob/main/LICENSE.md "GitHub license")
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/smartman0307/admin-dashboard/commits/main "Maintenance")
+[![GitHub branches](https://badgen.net/github/branches/smartman0307/admin-dashboard/)](https://github.com/smartman0307/admin-dashboard/branches "GitHub branches")
+[![Github commits](https://badgen.net/github/commits/smartman0307/admin-dashboard/main)](https://github.com/smartman0307/admin-dashboard/commits "Github commits")
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6aeb1ab3-871d-48c0-bc09-2e1fcaef0c2b/deploy-status)](https://shoppy-dashboard-react.netlify.app/ "Netlify Status")
-[![GitHub issues](https://img.shields.io/github/issues/Technical-Shubham-tech/admin-dashboard)](https://github.com/Technical-Shubham-tech/admin-dashboard/issues "GitHub issues")
+[![GitHub issues](https://img.shields.io/github/issues/smartman0307/admin-dashboard)](https://github.com/smartman0307/admin-dashboard/issues "GitHub issues")
 
 ## ⚠️ Before you start
 
@@ -67,7 +67,7 @@
 
 [<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" width="150" height="40" />](https://tailwindcss.com/ "Tailwind CSS")
 
-[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">](https://github.com/Technical-Shubham-tech "Built with Love")
+[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">](https://github.com/smartman0307 "Built with Love")
 
 ## 🔧 Stats
 
@@ -76,16 +76,6 @@
 ## 🙌🏼 Contribute
 
 You might encounter some bugs while using this app. You are more than welcome to contribute. Just submit changes via pull request and I will review them before merging. Make sure you follow community guidelines.
-
-## Buy Me a Coffee 🍺
-
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
-
-## 🚀 Follow Me
-
-[![GitHub followers](https://img.shields.io/github/followers/Technical-Shubham-tech?style=social&label=Follow&maxAge=2592000)](https://github.com/Technical-Shubham-tech)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FTechnical-Shubham-tech%2Fmedical-chat-app)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNAz_hUVBG2ZUN8TVm0bmYw)
 
 ## ⭐ Give A Star
 
